@@ -1,0 +1,4 @@
+* make the window such that it can be closed by the user whenever they want. Don't make it full screen. 
+* Male, Female and other - all 3 are being selected before the user selects one of them. <resolved>
+* Make the User interface scrollable. 
+* <OPTIONAL> Click to show or hide password function, hidden by default would be nice in the signup page. - use the type parameter defined in create_form_entry function for this. 
